@@ -47,7 +47,7 @@ inquirer.prompt(questions).then((answers) => {
   const svgContent = `
     <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       ${shape.render()}
-      <text x="50%" y="50%" text-anchor="middle" fill="${answers.textColor}">
+      <text x="50%" y="50%" alignment-baseline="central" text-anchor="middle" font-size="3rem" fill="${answers.textColor}">
         ${answers.text}
       </text>
     </svg>
