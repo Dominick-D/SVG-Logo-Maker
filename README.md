@@ -4,7 +4,7 @@
 ## 📚 Description
 Once you run the application, it initiates a conversation with you, asking a few questions. It wants to know the text for your logo (up to three characters), the desired color for your text, your choice of a shape (triangle, circle, or square), and the color for that shape.
 
-Based on your responses, the Logo Maker uses object-oriented programming principles to generate your logo, employing different classes for each shape. The result is saved as an SVG file, which you can easily use across your projects.
+Based on your responses, the Logo Maker uses object-oriented programming to generate your logo, using different classes for each shape. The result is saved as an SVG file, which you can easily use across your projects.
 
 ## 📖 Table of Contents
 * [Installation](#installation)
@@ -65,4 +65,4 @@ Ran all test suites.
 ```
 
 ## ❓ Questions
-If you have any questions about the repo, open an issue or contact me directly at dominickdonn.me/contact. You can find more of my work at [domdonn](domdonn.me).
+If you have any questions about the repo, open an issue or contact me directly at [Here](dominickdonn.me/contact). You can find more of my work on [my portfolio](domdonn.me).
